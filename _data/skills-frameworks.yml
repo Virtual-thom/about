@@ -1,0 +1,45 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Sails JS
+  weight: 4
+
+- name: NodeJS
+  weight: 5
+
+- name: jQuery
+  weight: 4
+
+- name: Angular
+  weight: 2
+
+- name: React
+  weight: 2
+
+- name: Wordpress
+  weight: 4
+
+- name: Jekyll
+  weight: 4
+
+- name: Zend
+  weight: 3
+
+- name: Symfony
+  weight: 3
+
+- name: Polymer
+  weight: 2
+
+- name: Alpine JS
+  weight: 3
+
+- name: Boostrap
+  weight: 3
+  
+- name: Tailwind
+  weight: 3

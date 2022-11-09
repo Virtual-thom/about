@@ -1,0 +1,102 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Bloc notes informatique et VTOM
+  descr: "A la base, ce site était une simple base de connaissance où je stockais et référençais mes petites notes et astuces du moment. Quelques visiteurs ayant montré de l'intérêt, notamment pour VTOM, je m'éfforce de mettre en forme mes penses-bêtes."
+  demo: https://virtual-thom.github.io
+  tags:
+    - tag: Jekyll
+    - tag: GithubPages
+
+- name: Lasiocampidae America
+  descr: "Site d'un passionné d'entomologie, spécialisé dans la recherche et l'identification des papillons de nuits Lasiocampidae America. Guy travaille directement sur un base Airtable, récupération des info's via API par Express en nodeJS. Front en Parcel + AlpineJS."
+  demo: https://lasiocampidae-america.com
+  tags:
+    - tag: API
+    - tag: Airtable
+    - tag: AlpineJS
+    - tag: Parcel
+    - tag: Bootstrap CSS
+
+- name: Alertes Météo
+  descr: "Notifications emails en cas de dépassement de vos seuils établis (ex. si la température minimale de 3°C descend en dessous pour la ville Limoges, alertes email)"
+  demo: https://alerte-gel.net
+  tags:
+    - tag: API
+    - tag: AlpineJS
+    - tag: SQLite3
+
+- name: Chambres d'Hôtes Limousin
+  descr: "Site pour des chambres d'hôtes et gîte en Haute-Vienne. Gestion des factures et de coffrets par woocommerce."
+  demo: https://chambresdhoteslimousin.com/
+  tags:
+    - tag: Wordpress
+    - tag: E-commerce
+
+- name: TrujiBike
+  demo: https://truji-cycle.fr/
+  descr: "Page de présentation d'un magasin et atelier de vélo."
+
+- name: Martine d'Olivo - Peintures et Céramiques
+  demo: http://martine.dolivo.free.fr/
+  descr: "Site épuré pour présenter les oeuvres de Martine d'Olivo. Le backend Wordpress avec Elementor lui permet de gérer de façon autonome ses photos et galeries."
+  tags:
+  - tag: Wordpress
+  - tag: Elementor
+
+- name: Gestion des services (état des applications)
+  descr: "Application d'entreprise full stack (MVC) qui permet de piloter l'état des services par une IHM web, et qui permet la mise à jour du service via API par XLR et VTOM. Framework Sails.js : frontend ejs  + bdd MySQL + backend controller appel aux APIs XLD XLR et backend de présentation d'API pour les autres applications."
+  tags:
+  - tag: Sails.js
+  - tag: Nodejs
+  - tag: MySQL
+  - tag: API
+
+- name: Seconde Main Limousin
+  descr: "Ma femme y référence toutes les adresses du limousin de seconde main : ressourceries, recycleries, friperies, emmaus, etc."
+  demo: https://secondemainlimousin.ddns.net
+  tags:
+    - tag: Airtable
+    - tag: Nodejs
+    - tag: Docker
+    - tag: AlpineJS
+
+- name: Gestion des correspondances code caisse - code agence
+  descr: "Application d'entreprise full stack en remplacement du vieux Tableau Excel. Parcel Bundler Boostrap + MySQL + API en php (les autres applications viennent requêter ces APIs)."
+  tags:
+  - tag: Parcel Bundler
+  - tag: Boostrap CSS
+  - tag: MySQL
+  - tag: API
+
+- name: Rapport des reboots
+  descr: "Génération et envoi de mails automatiques pour donner un état quotidien à la Prod des reboots du parc informatique. Etat consultable sur page web également."
+  tags:
+  - tag: PHP
+  - tag: Oracle
+  - tag: Parcel Bundler
+  - tag: DataTable
+  - tag: VTOM
+  - tag: API
+
+- name: Statistiques VTOM glissantes sur 13 mois
+  descr: "Site web avec base oracle partitionnée par mois. Consultation rapide avec graphique des tendances, des minimums et maximums du temps d'exécution. Rapport sur les jobs VTOM les plus longs et qui tombent en erreur très souvent. A permis de débloquer quelques chemins critiques de plan de prod VTOM."
+  tags:
+  - tag: PHP
+  - tag: Oracle
+  - tag: Parcel Bundler
+  - tag: DataTable
+  - tag: VTOM
+  - tag: API

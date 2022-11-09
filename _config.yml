@@ -1,0 +1,137 @@
+### VALUES YOU SHOULD CHANGE ###
+
+# GENERAL SITE SETTINGS
+
+# title: This will be displayed as the website's name in your browser tab.
+title: Curriculum Vitae Virtual Thom
+# description: This will be meta HTML tag content. This can be ignored.
+description: Page dédiée à mon parcours professionnel
+# baseurl: The subpath of your site
+# > set this to "", if you renamed the repository to <user>.github.io
+baseurl: "/about"
+
+# LANDING PAGE
+# username: This will displayed on the landing page as your name.
+username: Thom
+# typing_text: This will be typed before 'scroll down for more'.
+# > set this to your job title, e.g. Fullstack Developer
+typing_text: Expert VTOM & Développeur Web Fullstack
+# email: Your E-Mail address for the email button.
+email: virtual.thom@protonmail.com
+# For every social button you want to display, set your username or userid
+# If you do not use one of the following websites, then leave it empty
+# > twitter_username:
+github_username: virtual-thom
+codepen_username: 
+dev_username: 
+linkedin_username: virtual-thom-564b061b0
+twitter_username: 
+
+# ABOUT ME SECTION
+# show_aboutme_card:
+# > setting this to true, will display the About Me section
+# > setting this to false, will omit the About Me section
+show_aboutme_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title: A propos
+# about_me_description: This will be displayed under the title.
+about_me_description: "<p>Mon parcours professionnel m'a plongé dans l'opérationnel pendant plus de quinze ans.
+Je me suis épanoui dans des contextes de production variés : Systèmes d'informations RH des armées, clients grand compte en ESN, SI de grandes banques.</p>
+<p>D'Unix à Windows, en passant par des baies de stockage EMC et des systèmes virtuels VMWare ou Docker, j'ai forgé mon expérience aussi bien en équipe avec de véritables mentors, qu'en buchant seul les documentations, livres et vidéos, sans oublier les nombreuses formations chez les éditeurs.</p>
+<p>Expert VTOM (ordonnancement) reconnu par mes pairs, j'ai aussi été admin SAN, Save, et Intégrateur DevOps.</p>
+<p>Plus encore et depuis toujours, je convertis ma passion du code et suis devenu développeur de sites web full stack et d’applications d’entreprise.</p>
+<p>Voici quelques qualités qui me caractérisent : soif d'apprendre, passionné informatique, autonome et flexible.</p>
+<p>En 2021, je deviens indépendant et permet à un gros client de consolider son équipe VTOM, avec de beaux projets d'industrialisation, de migration, et de sécurisation. Je propose aussi mes services à la collectivité ou aux entreprises du Limousin. Formations et missions diverses (scripting, dev, linux, VTOM), assistance et cours aux particuliers, développement et gestion de sites web.</p>"
+
+# SKILLS SECTION
+# show_skills_card:
+# > setting this to true, will display the Skills section
+# > setting this to false, will omit the Skills section
+show_skills_card: true
+# about_me_title: The will be displayed as the title in the Skills section
+skills_title: Mes Atouts
+
+# TIMELINE SECTION
+# show_timeline_card:
+# > setting this to true, will display the Timeline section
+# > setting this to false, will omit the Timeline section
+show_timeline_card: true
+# timeline_title: The will be displayed as the title in the Timeline section
+timeline_title: Expérience et Parcours professionel
+# cv_download_link: The link where you host your cv.
+# > e.g. you share your cv on your dropbox, then add the dropbox link here
+#cv_download_link: ""
+
+# PROJECTS SECTION
+# show_projects_card:
+# > setting this to true, will display the Projects section
+# > setting this to false, will omit the Projects section
+show_projects_card: true
+# show_projects:
+# > setting this to true, will display your listed projects in _data/projects.yml
+# > setting this to false, will omit your listed projects
+show_projects: true
+# projects_title: The will be displayed as the title of your projects
+projects_title: Sites web et applications d'entreprise
+# show_os_projects:
+# > setting this to true, will display your public projects on github
+# > setting this to false, will omit your public projects on github
+show_os_projects: true
+# os_projects_title: The will be displayed as the title of your open source projects
+os_projects_title: Open Source Projects
+
+# CONTACT SECTION
+# show_contact_card:
+# > setting this to true, will display the Contact section
+# > setting this to false, will omit the Contact section
+show_contact_card: true
+# contact_title: The will be displayed as the title in the Contact section
+contact_title: Contact
+# contact_description: This will be displayed under the title.
+contact_description: Disponible par mail, ou pour prendre un café et discuter de votre projet.
+
+# GITHUB-METADATA
+# Set this to your forked repository
+# > e.g. <user>/<user>.github.io
+##repository: longpdo/neumorphism
+##projects:
+  # sortby:
+  # > set this to pushed, if you want to sort your github repositories by time.
+  # > set this to stars, if you want to sort your github repositories by stars.
+##  sort_by: pushed
+##  exclude:
+    # archived:
+    # > setting this to true, will exclude archived repositories
+    # > setting this to false, will also display archived repositories
+##    archived: true
+    # forks:
+    # > setting this to true, will exclude forked repositories
+    # > setting this to false, will also display forked repositories
+##    forks: true
+    # projects: A list of the repository names you want to exclude from the listing.
+##    projects:
+    # - repo1-to-be-excluded
+    # - repo2-to-be-excluded
+
+# GOOGLE-ANALYTICS
+# Set the id, if you want to track your website with Google Analytics
+# > set this to "", if you do not want to track with Google Analytics
+google-analytics:
+  id: ""
+
+
+### END OF VALUES YOU SHOULD CHANGE ###
+
+##plugins:
+##  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "_site",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]
