@@ -19,6 +19,13 @@
   tags:
     - tag: Jekyll
     - tag: GithubPages
+    
+- name: Ouss a dit
+  descr: "Recueil des citations d'Oussama Ammar qui s'est lancé en 2022 dans l'aventure folle de partager un conseil ou une expérience par semaine sur son LinkedIn."
+  demo: https://ouss-a-dit.web.app/
+  tags:
+    - tag: Firebase
+    - tag: vanilla js, firebase api
 
 - name: Lasiocampidae America
   descr: "Site d'un passionné d'entomologie, spécialisé dans la recherche et l'identification des papillons de nuits Lasiocampidae America. Guy travaille directement sur un base Airtable, récupération des info's via API par Express en nodeJS. Front en Parcel + AlpineJS."
