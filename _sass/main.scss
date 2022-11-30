@@ -230,8 +230,6 @@ a {
 /* Landing Page */
 
 #landing {
-  background: url(/about/assets/img/thomas-asnar.png) 0 100% no-repeat;
-  background-size:30%;
   background-color: rgb(40, 40, 40);
   border-bottom:1px solid rgb(30, 30, 30);
   color: $text-color;
@@ -240,6 +238,7 @@ a {
   margin: 0.5rem;
   padding: 0.5rem;
   text-align: center;
+  text-shadow: #000 3px 0 10px;
 }
 
 .landing-title {
