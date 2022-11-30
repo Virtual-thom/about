@@ -4,7 +4,6 @@
   "description": "",
   "scripts": {
     "dev": "gulp",
-    "osef": "osef",
     "prod": "gulp build"
   },
   "author": "Long Do",
