@@ -37,13 +37,11 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: A propos
 # about_me_description: This will be displayed under the title.
-about_me_description: "<p>Mon parcours professionnel m'a plongé dans l'opérationnel pendant plus de quinze ans.
-Je me suis épanoui dans des contextes de production variés : Systèmes d'informations RH des armées, clients grand compte en ESN, SI de grandes banques.</p>
-<p>D'Unix à Windows, en passant par des baies de stockage EMC et des systèmes virtuels VMWare ou Docker, j'ai forgé mon expérience aussi bien en équipe avec de véritables mentors, qu'en buchant seul les documentations, livres et vidéos, sans oublier les nombreuses formations chez les éditeurs.</p>
-<p>Expert VTOM (ordonnancement) reconnu par mes pairs, j'ai aussi été admin SAN, Save, et Intégrateur DevOps.</p>
-<p>Plus encore et depuis toujours, je convertis ma passion du code et suis devenu développeur de sites web full stack et d’applications d’entreprise.</p>
-<p>Voici quelques qualités qui me caractérisent : soif d'apprendre, passionné informatique, autonome et flexible.</p>
-<p>En 2021, je deviens indépendant et permet à un gros client de consolider son équipe VTOM, avec de beaux projets d'industrialisation, de migration, et de sécurisation. Je propose aussi mes services à la collectivité ou aux entreprises du Limousin. Formations et missions diverses (scripting, dev, linux, VTOM), assistance et cours aux particuliers, développement et gestion de sites web.</p>"
+about_me_description: "<p>Avec plus de 15 ans d'expérience dans l'opérationnel, j'ai évolué dans divers contextes de production, notamment les systèmes d'informations RH des armées, les projets pour des clients grands comptes en ESN, et les systèmes d'information de grandes banques. J'ai acquis une solide expérience en travaillant avec des technologies variées, allant d'Unix à Windows, en passant par les baies de stockage EMC et les systèmes virtuels VMWare ou Docker. J'ai développé mes compétences en travaillant en équipe avec des mentors expérimentés, mais aussi en étudiant de manière autonome les documentations, les livres et les vidéos, et en suivant des formations chez les éditeurs.</p>
+<br>
+<p>Je suis reconnu comme expert VTOM (ordonnancement) par mes pairs, et j'ai également des compétences en tant qu'admin SAN, Save, et intégrateur DevOps. Mon passion pour l'informatique m'a également amené à devenir développeur de sites web full stack et d'applications d'entreprise.</p>
+<br>
+<p>J'ai la soif d'apprendre, je suis passionné par l'informatique, autonome et flexible.</p><br><p>En 2021, je me suis lancé en tant qu'indépendant et j'ai aidé un gros client à consolider son équipe VTOM, sur des projets ambitieux d'industrialisation, de migration, et de sécurisation. Je propose également mes services aux entreprises de la région Limousin, pour des formations et des missions diverses (scripting, dev, Linux, VTOM), ainsi que pour l'assistance et les cours aux particuliers, le développement et la gestion de sites web.</p>"
 
 # SKILLS SECTION
 # show_skills_card:
