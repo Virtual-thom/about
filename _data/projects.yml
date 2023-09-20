@@ -19,6 +19,12 @@
   tags:
     - tag: Jekyll
     - tag: GithubPages
+
+- name: Mon site vitrine pour assistance informatique locale
+  descr: "J'ai décidé de mettre à profit mon expertise en informatique au service de la communauté locale."
+  demo: https://virtual-thom.ddns.net
+  tags:
+    - tag: Wordpress
     
 - name: Oussa dit
   descr: "Recueil des citations d'Oussama Ammar qui s'est lancé en 2022 dans l'aventure folle de partager un conseil ou une expérience par semaine sur son LinkedIn."
