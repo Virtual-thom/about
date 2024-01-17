@@ -25,13 +25,6 @@
   demo: https://virtual-thom.ddns.net
   tags:
     - tag: Wordpress
-    
-#- name: Oussa dit
-# descr: "Recueil des citations d'Oussama Ammar qui s'est lancé en 2022 dans l'aventure folle de partager un conseil ou une expérience par semaine sur son LinkedIn."
-# demo: https://oussa-dit.ddns.net
-# tags:
-#   - tag: Wordpress
-#   - tag: Elementor
 
 - name: Lasiocampidae America
   descr: "Site d'un passionné d'entomologie, spécialisé dans la recherche et l'identification des papillons de nuits Lasiocampidae America. Guy travaille directement sur un base Airtable, récupération des info's via API par Express en nodeJS. Front en Parcel + AlpineJS."
@@ -57,17 +50,6 @@
   tags:
     - tag: Wordpress
     - tag: E-commerce
-
-- name: TrujiBike
-  demo: https://truji-cycle.fr/
-  descr: "Page de présentation d'un magasin et atelier de vélo."
-
-- name: Martine d'Olivo - Peintures et Céramiques
-  demo: http://martine.dolivo.free.fr/
-  descr: "Site épuré pour présenter les oeuvres de Martine d'Olivo. Le backend Wordpress avec Elementor lui permet de gérer de façon autonome ses photos et galeries."
-  tags:
-  - tag: Wordpress
-  - tag: Elementor
 
 - name: Gestion des services (état des applications)
   descr: "Application d'entreprise full stack (MVC) qui permet de piloter l'état des services par une IHM web, et qui permet la mise à jour du service via API par XLR et VTOM. Framework Sails.js : frontend ejs  + bdd MySQL + backend controller appel aux APIs XLD XLR et backend de présentation d'API pour les autres applications."
