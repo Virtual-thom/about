@@ -24,7 +24,7 @@
   tags:
     - tag: VTOM
     - tag: Run Prod
-  timeline-side: left
+  timeline-side: right
 
 - title: Indépendant
   title-url: https://virtual-thom.github.io/about
@@ -33,7 +33,7 @@
   tags:
     - tag: VTOM
     - tag: Run Prod
-  timeline-side: right
+  timeline-side: left
 
 - title: BPCE-IT
   title-url: http://www.bpce-it.fr/
@@ -43,7 +43,7 @@
     - tag: VTOM
     - tag: XL-Release
     - tag: XL-Deploy
-  timeline-side: left
+  timeline-side: right
 
 - title: Capgemini
   title-url: https://www.capgemini.com/fr-fr/
@@ -68,7 +68,7 @@
 - title: BTS
   date: 2014
   subtitle: BTS Services Informatiques Aux Organisations
-  timeline-side: right
+  timeline-side: left
 
 - title: DUniversité de Montpellier II
   date: 2006
