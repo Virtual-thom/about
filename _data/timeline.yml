@@ -24,12 +24,6 @@
   tags:
     - tag: VTOM
     - tag: Run Prod
-  timeline-side: right
-
-- title: Types de missions
-  date: Globalement
-  subtitle: Conception et mise en oeuvre des plans, et télédiffusion en production sous VTOM<br>Admin infra VTOM 7.1.2<br>Run N3 IGA, incidents, changements, MEP applicatives<br>Automatisation et scripting, shell, powershell, python<br>Gestion, Maintenance, Ajout features de sites web intranet ou applications d'entreprise<br>Migration d’environnements Control-M vers VTOM avec équipes
-en Inde en anglais
   timeline-side: left
 
 - title: Indépendant
