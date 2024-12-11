@@ -34,3 +34,6 @@
 
 - name: Powershell
   weight: 4
+
+- name: Transfert(sftp,ftp,cft)
+  weight: 4
