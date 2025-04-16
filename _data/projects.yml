@@ -36,9 +36,8 @@
     - tag: Parcel
     - tag: Bootstrap CSS
 
-- name: Alertes Météo
+- name: Alertes Météo - Privé
   descr: "Notifications emails en cas de dépassement de vos seuils établis (ex. si la température minimale de 3°C descend en dessous pour la ville Limoges, alertes email)"
-  demo: https://alerte-gel.net
   tags:
     - tag: API
     - tag: AlpineJS
