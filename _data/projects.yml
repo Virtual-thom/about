@@ -36,12 +36,15 @@
     - tag: Parcel
     - tag: Bootstrap CSS
 
-- name: Alertes Météo - Privé
+- name: Alertes Météo
   descr: "Notifications emails en cas de dépassement de vos seuils établis (ex. si la température minimale de 3°C descend en dessous pour la ville Limoges, alertes email)"
+  demo: https://alerte-gel.ddns.net
   tags:
     - tag: API
     - tag: AlpineJS
     - tag: SQLite3
+    - tag: Auth0
+    - tag: NodeJS
 
 - name: Chambres d'Hôtes Limousin
   descr: "Site pour des chambres d'hôtes et gîte en Haute-Vienne. Gestion des factures et de coffrets par woocommerce."
