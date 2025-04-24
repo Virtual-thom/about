@@ -20,6 +20,9 @@
 - name: PERL
   weight: 3
 
+- name: Kubernetes
+  weight: 3
+
 - name: HTML5
   weight: 4
 
