@@ -46,13 +46,6 @@
     - tag: Auth0
     - tag: NodeJS
 
-- name: Chambres d'Hôtes Limousin
-  descr: "Site pour des chambres d'hôtes et gîte en Haute-Vienne. Gestion des factures et de coffrets par woocommerce."
-  demo: https://chambresdhoteslimousin.com/
-  tags:
-    - tag: Wordpress
-    - tag: E-commerce
-
 - name: Gestion des services (état des applications)
   descr: "Application d'entreprise full stack (MVC) qui permet de piloter l'état des services par une IHM web, et qui permet la mise à jour du service via API par XLR et VTOM. Framework Sails.js : frontend ejs  + bdd MySQL + backend controller appel aux APIs XLD XLR et backend de présentation d'API pour les autres applications."
   tags:
