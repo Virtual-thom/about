@@ -11,26 +11,14 @@
 - name: PHP
   weight: 3
 
-- name: MySQL
+- name: SQL
   weight: 3
 
 - name: Python
-  weight: 3
-
-- name: PERL
-  weight: 3
-
+  weight: 4
+  
 - name: Kubernetes
   weight: 3
-
-- name: HTML5
-  weight: 4
-
-- name: CSS3
-  weight: 4
-
-- name: Java
-  weight: 1
 
 - name: Shell
   weight: 5
