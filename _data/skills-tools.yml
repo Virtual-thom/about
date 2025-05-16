@@ -14,14 +14,14 @@
 - name: Bash
   weight: 5
 
-- name: XL-Release
+- name: XLR
   weight: 3
-
-- name: XL-Deploy
-  weight: 3
-
+  
 - name: Docker
   weight: 4
 
 - name: Ansible
   weight: 2
+
+- name: Kubernetes
+  weight: 3
