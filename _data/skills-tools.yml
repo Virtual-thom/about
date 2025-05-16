@@ -25,3 +25,6 @@
 
 - name: Kubernetes
   weight: 3
+  
+- name: Transfert(sftp,ftp,cft)
+  weight: 4
