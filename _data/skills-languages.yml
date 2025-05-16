@@ -16,15 +16,9 @@
 
 - name: Python
   weight: 4
-  
-- name: Kubernetes
-  weight: 3
 
 - name: Shell
   weight: 5
 
 - name: Powershell
-  weight: 4
-
-- name: Transfert(sftp,ftp,cft)
   weight: 4
