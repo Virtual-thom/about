@@ -4,6 +4,8 @@
 # Example of a Dev Tool
 # - name: Git
 #   weight: 5
+- name: Claude Code
+  weight: 4
 
 - name: git
   weight: 3
