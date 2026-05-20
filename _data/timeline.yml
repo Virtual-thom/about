@@ -17,9 +17,19 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Indépendant
+- title: Ingénieur DevOps chez DIOT SIACI MSHI
   title-url: https://virtual-thom.github.io/about
   date: Présent
+  subtitle: Missions VTOM - Run N3 middleware - dev
+  tags:
+    - tag: VTOM
+    - tag: Agent IA
+    - tag: Oracle SQL
+  timeline-side: left
+
+- title: Indépendant
+  title-url: https://virtual-thom.github.io/about
+  date: 2023 - 2026
   subtitle: Missions VTOM - Run N3 middleware
   tags:
     - tag: VTOM
